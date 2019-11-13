@@ -1,7 +1,6 @@
 # flutter_fanhaoku
 
-A new Flutter project.
-
+![image](https://github.com/10bits/flutter_fanhaoku/blob/master/screen/screen.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
