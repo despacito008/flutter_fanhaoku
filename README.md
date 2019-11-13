@@ -1,4 +1,6 @@
-# flutter_fanhaoku
+# 番号库
+
+`浏览番号图片,预览番号视频,查找番号磁链`
 
 ![image](https://github.com/10bits/flutter_fanhaoku/blob/master/screen/screen.gif)
 
@@ -12,7 +14,8 @@
 - 磁力获取
 - 标签添加
 - 搜索
-
+  
+[下载]()
 ## Getting Started
 
 This project is a starting point for a Flutter application.
