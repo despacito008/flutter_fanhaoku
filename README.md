@@ -16,6 +16,11 @@
 - 搜索
   
 [下载]()
+
+# Build Your Apk.
+
+`flutter build apk --target-platform android-arm64 --split-per-abi`
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
