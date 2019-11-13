@@ -5,7 +5,7 @@ import 'package:select_dialog/select_dialog.dart';
 //import 'package:cached_network_image/cached_network_image.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
 import 'package:provide/provide.dart';
-import 'provide/counter.dart';
+import 'provide/fanhao.dart';
 import 'package:solid_bottom_sheet/solid_bottom_sheet.dart';
 import 'package:fijkplayer/fijkplayer.dart';
 //import 'video.dart';
