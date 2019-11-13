@@ -1,6 +1,18 @@
 # flutter_fanhaoku
 
 ![image](https://github.com/10bits/flutter_fanhaoku/blob/master/screen/screen.gif)
+
+# 已实现功能
+
+-   图片浏览
+-   视频预览
+
+# TODO
+
+- 磁力获取
+- 标签添加
+- 搜索
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
